@@ -1,5 +1,8 @@
-I learned to code this app from a course from UDEMY, It was fun and interesting.
+# Budget Web App
+With this web app you can keep control of you income and expenses and actually visually be able to notice your financial situation
 
-The app controls your budget by summing income and resting expenses.
+# Tech Stack
+HTML, CSS, JAVASCRIPT
 
-It implements the Module Pattern (Design Pattern).
+# Module Pattern
+Javascript module pattern implemented
